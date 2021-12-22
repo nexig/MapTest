@@ -1,0 +1,8 @@
+//
+//  Prod.xcconfig
+//  Maptest
+//
+//  Created by Jakub Żurek on 16/12/2021.
+//
+
+API_BASE_URL = https:/$()/rest.paysafecard.com/rest
